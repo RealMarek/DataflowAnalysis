@@ -23,3 +23,5 @@ In this repository we are trying to find out if its possible to predict the page
 - 100 articles for each category
 - Every article will be reduced to the top 30 links
 - Collect data off all incoming and outgoing links in the top 30 of a page
+
+![Analysis Overview](/readmeFiles/AnalysisOverview.png "Analysis Overview")
