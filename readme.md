@@ -10,7 +10,7 @@ In this repository we are trying to find out if its possible to predict the page
 - The average duration of a visit is approx. 4 minutes
 - On average, 3 Wikipedia pages are viewed per visit
 >Source: https://www.similarweb.com/top-websites/
-## What data do we collect?
+## Which data do we collect?
 - Daily data for a full year
 - Trending categories
     - Celebrities who died last year
